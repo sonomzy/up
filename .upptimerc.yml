@@ -4,7 +4,7 @@ repo: up # The name of this repository
 
 sites:
   - name: Blogtrovert
-    url: https://blogtovert.com
+    url: https://blogtrovert.com
   - name: Chicpixies
     url: https://chicpixies.com
 
