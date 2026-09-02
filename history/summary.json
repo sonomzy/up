@@ -5,17 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/blogtrovert.com.ico",
     "slug": "blogtrovert",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 389,
-    "timeDay": 354,
-    "timeWeek": 366,
-    "timeMonth": 389,
-    "timeYear": 389,
-    "dailyMinutesDown": {}
+    "uptime": "98.78%",
+    "uptimeDay": "75.18%",
+    "uptimeWeek": "96.45%",
+    "uptimeMonth": "98.78%",
+    "uptimeYear": "98.78%",
+    "time": 379,
+    "timeDay": 294,
+    "timeWeek": 329,
+    "timeMonth": 379,
+    "timeYear": 379,
+    "dailyMinutesDown": {
+      "2026-09-02": 93,
+      "2026-09-01": 265
+    }
   },
   {
     "name": "Chicpixies",
@@ -28,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2017,
-    "timeDay": 1718,
-    "timeWeek": 2153,
-    "timeMonth": 2017,
-    "timeYear": 2017,
+    "time": 2011,
+    "timeDay": 1788,
+    "timeWeek": 2163,
+    "timeMonth": 2011,
+    "timeYear": 2011,
     "dailyMinutesDown": {}
   }
 ]
