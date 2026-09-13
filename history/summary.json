@@ -5,20 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/blogtrovert.com.ico",
     "slug": "blogtrovert",
     "status": "down",
-    "uptime": "98.22%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.17%",
-    "uptimeYear": "98.22%",
+    "uptime": "98.12%",
+    "uptimeDay": "96.60%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "98.06%",
+    "uptimeYear": "98.12%",
     "time": 352,
-    "timeDay": 253,
-    "timeWeek": 266,
+    "timeDay": 93,
+    "timeWeek": 241,
     "timeMonth": 351,
     "timeYear": 352,
     "dailyMinutesDown": {
       "2026-09-02": 536,
       "2026-09-01": 265,
-      "2026-09-13": 0
+      "2026-09-13": 49
     }
   },
   {
@@ -33,8 +33,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1999,
-    "timeDay": 2168,
-    "timeWeek": 1953,
+    "timeDay": 2407,
+    "timeWeek": 1968,
     "timeMonth": 1973,
     "timeYear": 1999,
     "dailyMinutesDown": {}
